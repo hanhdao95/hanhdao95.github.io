@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Forest Cover Type Prediction](/sample_page)
+<img src="images/forest.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Reducing Aviation Fatalities](https://www.kaggle.com/hanhdao123/reducing-aviation-fatalities)
+<img src="images/pilot.png?raw=true"/>
+
+---
+[Forest Cover Type Prediction](https://www.kaggle.com/nehabhandari1/forest-prediction-final)
+<img src="images/forest.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Data Visualization
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
