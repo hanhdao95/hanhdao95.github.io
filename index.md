@@ -4,7 +4,7 @@
 
 ### Machine Learning 
 
-[Forest Cover Type Prediction](/https://hanhdao95.github.io/html/forest-prediction-final.html)
+[Forest Cover Type Prediction](https://hanhdao95.github.io/forest-prediction-final.html)
 <img src="images/forest.png?raw=true"/>
 
 ---
