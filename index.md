@@ -4,16 +4,12 @@
 
 ### Machine Learning 
 
-[Forest Cover Type Prediction](/sample_page)
+[Forest Cover Type Prediction](/https://hanhdao95.github.io/html/forest-prediction-final.html)
 <img src="images/forest.png?raw=true"/>
 
 ---
 [Reducing Aviation Fatalities](https://www.kaggle.com/hanhdao123/reducing-aviation-fatalities)
 <img src="images/pilot.png?raw=true"/>
-
----
-[Forest Cover Type Prediction](https://www.kaggle.com/nehabhandari1/forest-prediction-final)
-<img src="images/forest.png?raw=true"/>
 
 ---
 
